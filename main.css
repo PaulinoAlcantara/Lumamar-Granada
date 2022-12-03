@@ -1,0 +1,21 @@
+.carrusel {
+  max-height: 25rem;
+}
+
+.tarjeta {
+  max-width: 18rem;
+}
+
+.flex-content {
+  flex-basis: auto;
+  align-self: end;
+  -ms-flex-align: center;
+  width: 50rem;
+  height: 50rem;
+}
+.imgnormalizada img {
+  width: 100%;
+  min-width: 1250px;
+  height: 600px;
+  /* max-height: 750px; */
+}
